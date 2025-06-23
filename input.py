@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+cgpa = input("Enter your CGPA: ")
+subject = input("Enter your favorite subject: ")
+print("Name:", name)
+print("Age:", age)
+print("CGPA:", cgpa)
+print("Favorite Subject:", subject)

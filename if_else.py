@@ -1,12 +1,8 @@
-mark = 20
-if mark >= 30:
-    print("Pass")
-else:
-    print("Fail")
-    
-    num = 4
-    if num%2 == 0:
-        print("Even")
-        
-    else:
-        print("Odd")
+name = "hasib"
+age = 20
+cgpa = 3.5
+subject = "Computer Science"
+print("Name:", name if name else "No name provided")
+print("Age:", age if age else "No age provided")
+print("CGPA:", cgpa if cgpa else "No CGPA provided")
+print("Favorite Subject:", subject if subject else "No subject provided")

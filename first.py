@@ -1,6 +1,7 @@
-print('hello')
+x = 10
+g = 9.8
+z = 10j
 
-print(1+2)
-print('hello' + 'world')
-print('hello' * 3)   
-print('hello' + str(1))
+print(type(x))
+print(type(g))
+print(type(z))

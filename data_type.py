@@ -9,3 +9,4 @@ print(type(p))
 d = 10 / 4
 print(d)
 print(type(d))
+
